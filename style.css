@@ -1,9 +1,13 @@
 .jumbotron {
  padding-top: 5rem;
- padding-bottom: 2rem;
     background-color: #e2edff;
   }
 
 .jumbotron-text {
   padding: 2rem;
+}
+
+#project {
+  background-color: #e2edff;
+
 }
